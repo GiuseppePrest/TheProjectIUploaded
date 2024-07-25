@@ -10,7 +10,7 @@ namespace ProjectToUploadOnGit
     {
         public void phoneType()
         {
-            Console.WriteLine("Your Phone is an Iphone");
+            Console.WriteLine("Your Phone is an Iphone 12 pro");
         }
     }
 }
