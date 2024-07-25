@@ -1,0 +1,15 @@
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.csproj.AssemblyReference.cache
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.AssemblyInfoInputs.cache
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.AssemblyInfo.cs
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\bin\Debug\net6.0\ProjectToUploadOnGit.exe
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\bin\Debug\net6.0\ProjectToUploadOnGit.deps.json
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\bin\Debug\net6.0\ProjectToUploadOnGit.runtimeconfig.json
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\bin\Debug\net6.0\ProjectToUploadOnGit.dll
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\bin\Debug\net6.0\ProjectToUploadOnGit.pdb
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.dll
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\refint\ProjectToUploadOnGit.dll
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.pdb
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ProjectToUploadOnGit.genruntimeconfig.cache
+C:\Users\Giuseppe\source\repos\ProjectToUploadOnGit\ProjectToUploadOnGit\obj\Debug\net6.0\ref\ProjectToUploadOnGit.dll
